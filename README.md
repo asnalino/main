@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="ASNA" />
+  <img src="https://media3.giphy.com/media/3oKIPaqnUbU4nmLE5y/giphy.gif?cid=ecf05e473w1egagdr22hajlp6114ye981kqezdcvr92ynwrb&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="ASNA" />
 </h1>
 
 ## Hey! 👋
