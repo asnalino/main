@@ -1,11 +1,23 @@
-# Full Stack Developer
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="ASNA" />
+</h1>
 
-Hey i'm zkzuki / asna.
+## Hey! 👋
+I'm Asna, Iam a developer from italy.
 
-I code plugins for minecraft servers and discord bots and websites and more...
+- 🦔 Founder of [AsnaCode](https://asnacode.de)
 
+- 👨‍💻 Working at [KayodaNetworks](https://kayoda.de)
 
-discord: @zkzuki
-tiktok: zkzuki.love
++ a lot more ;)
 
-Currently working at FruitPlay.net
+## Skills
+- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL, Mongo
++ a lot more :D
+
+## Contact
+- [zaya@asna.host](https://gmail.com) as Email
+- [@KilyaFN](https://twitter.com/KilyaFN) on Twitter
+- [@asnalino](./) on Discord
